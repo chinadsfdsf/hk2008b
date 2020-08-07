@@ -22,5 +22,6 @@ categories:
 {{< mydiv4o text="youtube_新唐人亞太電視台ntdaptv" link="/byauthor/58b671d272c14879c3b582290ddd068b/index.html">}}
 {{< mydiv4o text="youtube_江峰时刻" link="/byauthor/403522ffe91412865e1d8c19493426bc/index.html">}}
 {{< mydiv4o text="youtube_珍言真語_//_大紀元" link="/byauthor/23ac1eed043b009eac214f05797e5869/index.html">}}
+{{< mydiv4o text="youtube_香江望神州" link="/byauthor/235427816b04ea42b89e7b517d34ab41/index.html">}}
 {{< mydiv4o text="youtube_香港花生" link="/byauthor/ee4029c299c760ec815004094d7f53e7/index.html">}}
 
