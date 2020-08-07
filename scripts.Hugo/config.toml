@@ -817,7 +817,7 @@ anchor = "smart"
   # used in layouts/partials/front.recent_posts.html
   enableFront    = true
   #title    = "民主救国阵线"
-  title    = " 2020年8月a "
+  title    = " 2020年8月b "
   subtitle = '''
 本网站在大陆可以直接浏览，无需VPN
 '''
