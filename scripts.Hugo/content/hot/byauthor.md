@@ -22,6 +22,7 @@ categories:
 {{< mydiv4o text="youtube_ng_sam" link="/byauthor/8b24f016734104b815ccd1084f1e2c41/index.html">}}
 {{< mydiv4o text="youtube_weiping_show平论" link="/byauthor/29cb1b8c696dbcbed3f263648b9b6d0f/index.html">}}
 {{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
+{{< mydiv4o text="youtube_冬天的冬" link="/byauthor/3ac847590a7313aa488658c230ce2037/index.html">}}
 {{< mydiv4o text="youtube_唐柏桥" link="/byauthor/809d11aef610c4480132529cca18db6f/index.html">}}
 {{< mydiv4o text="youtube_城寨_singjai" link="/byauthor/137c0c40b21b8b71f099b0928484f5e7/index.html">}}
 {{< mydiv4o text="youtube_希望之聲時事熱點" link="/byauthor/549556cdabbbf7d7df313e64149529b5/index.html">}}
